@@ -90,4 +90,5 @@ To set up and run the system, start by hosting the Flask server on your device b
 
 ## **Contributors**
 [Parth Bhatt](https://github.com/PARTH566DA)
+
 [Dhruv Gohil](https://github.com/Dhruvgohil07)
