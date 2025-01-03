@@ -87,3 +87,7 @@ approach ensures seamless, gesture-based control of devices.
 <p align = 'justify'>
 To set up and run the system, start by hosting the Flask server on your device by running the "server.py" file. Next, configure and upload the code to the ESP32 devices. For the client-side ESP32, upload the code from "client_esp.txt", and for the receiver-side ESP32, upload the code from "receiver_esp.txt". Before uploading, ensure you have entered the specific Wi-Fi SSID, password, and the IP address of your network in both ESP32 programs. Finally, make sure your device running the Flask server and both ESP32 devices are connected to the same network for seamless communication.
 </p>
+
+## **Contributors**
+[Parth Bhatt](https://github.com/PARTH566DA)
+[Dhruv Gohil](https://github.com/Dhruvgohil07)
